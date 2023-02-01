@@ -1,3 +1,3 @@
-# Chi Chan Store's Website
+# Chi Chan Store Website
 
 Website in progress. . .
